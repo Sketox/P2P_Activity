@@ -1,6 +1,24 @@
+# Grupo 1 — P2P estructurado y no estructurado
+
+## Integrantes
+
+- John Steven Lopez Velez
+- Luiggi Andrei Bernardi Zambrano
+- Santiago Esquetini
+
+## Material del grupo
+
+- [Hoja de resumen](docs/Hoja_Resumen_P2P_Grupo1.pdf)
+- [Presentación en PDF](docs/Diapositivas_Grupo1_P2P.pdf)
+
+## Guía práctica
+
+La actividad consiste en completar una simulación Mini-Torrent con
+descubrimiento de peers mediante un tracker.
+
 # Actividad: Mini-Torrent P2P con TRACKER (descubrimiento de peers)
 
-**Asignatura:** Arquitectura y Servicios
+**Asignatura:** Arquitecturas de Sistemas Distribuidos
 **Nivel:** segunda parte del mini-torrent
 
 ## El problema que resolvemos aquí
